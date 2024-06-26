@@ -14,3 +14,8 @@ Go 语言编程之旅第一章，命令行程序
 ## 便捷的时间工具
 1. 子命令下仍然可以有子命令
 2. 用标准库解析时间类。 比如 time.Parse, time.ParseDuration
+
+## 表到结构体的转换
+1. template 包 用于基于模板安全输出内容格式
+2. 通过访问 information_schema 数据库中的 COLUMNS 表 获取表中列信息
+3. 不太像是给学习者看的 没什么营养
